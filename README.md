@@ -1,4 +1,4 @@
-<h2>👋 Olá eu sou <i>Lucas Miranda.</i></h2>
+<h2>👋 Olá eu sou <i>Lucas Miranda!</i></h2>
 
 <!---
 lucasmirandaa/lucasmirandaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
