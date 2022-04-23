@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>@lucasmirandaa,</b> nice to meet you.
+- 👋 Olá eu sou <b>Lucas Mirandaa.</b>
 - 👀 I’m interested in professional replacement
 - 🌱 I’m currently learning how to coding.
 - 💞️ I’m looking to collaborate on where I'm useful.
